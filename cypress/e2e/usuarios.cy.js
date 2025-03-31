@@ -26,6 +26,7 @@ describe("Usuário", ()=> {
         cy.get('#tipoUsuario > .modal-dialog > .modal-content > .modal-footer > .btnConfirmar').click() // confirma
 
         
+        
         // cy.get('#ID__CAMPO__FILTRO__Ramal', { timeout: 10000 }).should('be.visible')
         // cy.get('#ID__CAMPO__FILTRO__Ramal').type('8001')
         // cy.get('.top-10 > .col-md-12 > .btn-success').click()
