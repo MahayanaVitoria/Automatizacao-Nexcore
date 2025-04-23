@@ -27,6 +27,7 @@ describe("Usuário", () => {
         });
 
         // Agora você pode continuar a automação na nova página
+        
 
     });
 
